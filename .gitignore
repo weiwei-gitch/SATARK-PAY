@@ -1,0 +1,9 @@
+﻿backend/venv/
+frontend/node_modules/
+frontend/dist/
+.env
+backend/.env
+*.zip
+__pycache__/
+*.pyc
+trustlens.db
